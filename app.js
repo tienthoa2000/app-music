@@ -35,12 +35,6 @@
             image: "./assets/img/song1.jpg"
             },
             {
-            name: "shape of you",
-            singer: "Ed Sheeran",
-            path: "./assets/music/Ed Sheeran-shape of you.mp3",
-            image: "./assets/img/Shape Of You.jpg"
-            },
-            {
             name: "Cheap Thrills",
             singer: "Sia",
             path: "./assets/music/Cheap Thrills - Sia.mp3",
@@ -69,6 +63,30 @@
             singer: "Ava Max",
             path: "./assets/music/Ava Max - Salt.mp3",
             image: "./assets/img/Ava Max - Salt.jpg"
+            },
+            {
+            name: "Bước qua nhau",
+            singer: "Vũ",
+            path: "./assets/music/BuocQuaNhau-Vu.mp3",
+            image: "./assets/img/buocQuaNhau.jpg"
+            },
+            {
+            name: "Until You",
+            singer: "Shayne Ward",
+            path: "./assets/music/UntilYou-ShayneWard.mp3",
+            image: "./assets/img/Until-You.jpg"
+            },
+            {
+            name: "shape of you",
+            singer: "Ed Sheeran",
+            path: "./assets/music/Ed Sheeran- Shape of You.mp3",
+            image: "./assets/img/Shape Of You.jpg"
+            },
+            {
+            name: "Waiting For Love",
+            singer: "Avicii",
+            path: "./assets/music/WaitingForLove-Avicii.mp3",
+            image: "./assets/img/Waiting_For_Love.jpg"
             },
             
         ],
