@@ -37,7 +37,7 @@
             {
             name: "shape of you",
             singer: "Ed Sheeran",
-            path: "./assets/music/Ed Sheeran - shape of you.mp3",
+            path: "./assets/music/Ed Sheeran-shape of you.mp3",
             image: "./assets/img/Shape Of You.jpg"
             },
             {
