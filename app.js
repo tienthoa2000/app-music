@@ -29,16 +29,16 @@
             },
         songs: [
             {
-            name: "shape of you",
-            singer: "Ed Sheeran",
-            path: "./assets/music/Ed Sheeran- shape of you.mp3",
-            image: "./assets/img/Shape Of You.jpg"
-            },
-            {
             name: "Click Pow Get Down",
             singer: "Raftaar x Fortnite",
             path: "./assets/music/song_1.mp3",
             image: "./assets/img/song1.jpg"
+            },
+            {
+            name: "shape of you",
+            singer: "Ed Sheeran",
+            path: "./assets/music/Ed Sheeran- shape of you.mp3",
+            image: "./assets/img/Shape Of You.jpg"
             },
             {
             name: "Cheap Thrills",
